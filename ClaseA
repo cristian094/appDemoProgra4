@@ -1,8 +1,10 @@
 public class ClaseA{
-private int x;
+private double x;
+private String y;
 
 public ClaseA(){
-this.x=0;
+this.x=0.0;
+this.y="";
 }
 
 
